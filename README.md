@@ -1,6 +1,6 @@
 # Segunda galeria, porém utilizando grid
 
- ![](./fotos/preview.png)
+ ![](./imgg/preview.png)
 
  ## Projeto
  Galeria com fotos do Ronald McDonald
